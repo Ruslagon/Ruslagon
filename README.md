@@ -13,11 +13,11 @@
 
 ### Hi there 👋
 
-Hi, I'm Ruslan Gorshkov, coding makes me happy. I optimize my time for hobbies by writing programs.
+Hi, I'm Ruslan Gorshkov, coding makes me happy.
 
 ## About me
 
-I code in Java. 
+I code in Java. I optimize my time for hobbies by writing programs.
 
 My skills:
 ![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
