@@ -8,7 +8,7 @@
 ![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
 <details>
 <summary>Мои навыки</summary>
-Java| Spring Framework| Spring
+| Java | Spring Framework | Spring |
 </details>
 
 ---
