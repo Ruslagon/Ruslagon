@@ -5,11 +5,9 @@
 ## Обо мне
 
 Пишу на Java. Оптимизирую свое время на хобби через программы.
+
+Мои навыки:
 ![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
-<details>
-<summary>Мои навыки</summary>
-| Java | Spring Framework | Spring |
-</details>
 
 ---
 
@@ -21,10 +19,9 @@ Hi, I'm Ruslan Gorshkov, coding makes me happy. I optimize my time for hobbies b
 
 I code in Java. 
 
-<details>
-<summary>My skills</summary>
-![12](https://github.com/Ruslagon/Ruslagon/assets/126253822/9cf7c66b-d185-4f33-b982-5ef8a7035628)
-</details>
+My skills:
+![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
+
 <!--
 **Ruslagon/Ruslagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
