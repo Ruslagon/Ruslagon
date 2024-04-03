@@ -5,7 +5,7 @@
 ## Обо мне
 
 Пишу на Java. Оптимизирую свое время на хобби через программы.
-
+![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
 <details>
 <summary>Мои навыки</summary>
 ![12](https://github.com/Ruslagon/Ruslagon/blob/main/skills.png)
