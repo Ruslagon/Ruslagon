@@ -8,7 +8,7 @@
 
 <details>
 <summary>Мои навыки</summary>
-![12](https://github.com/Ruslagon/Ruslagon/assets/126253822/9cf7c66b-d185-4f33-b982-5ef8a7035628)
+![12](https://github.com/Ruslagon/Ruslagon/skills.png)
 </details>
 
 ---
