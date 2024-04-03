@@ -8,8 +8,7 @@
 
 <details>
 <summary>Мои навыки</summary>
-![image](https://github.com/Ruslagon/Ruslagon/assets/126253822/6aff935e-c622-41fb-bd97-330bda416936)
-
+![12](https://github.com/Ruslagon/Ruslagon/assets/126253822/9cf7c66b-d185-4f33-b982-5ef8a7035628)
 </details>
 
 ---
@@ -24,8 +23,7 @@ I code in Java.
 
 <details>
 <summary>My skills</summary>
-![image](https://github.com/Ruslagon/Ruslagon/assets/126253822/6aff935e-c622-41fb-bd97-330bda416936)
-
+![12](https://github.com/Ruslagon/Ruslagon/assets/126253822/9cf7c66b-d185-4f33-b982-5ef8a7035628)
 </details>
 <!--
 **Ruslagon/Ruslagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
